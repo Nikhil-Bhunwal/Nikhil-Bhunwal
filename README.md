@@ -5,6 +5,7 @@ Mathematics & Computing graduate from **IIT Kharagpur**, building **econometric 
 ## 📈 Featured work
 - **[INR–JPY exchange-rate forecasting](https://github.com/Nikhil-Bhunwal/inr-jpy-forecasting)** (Master's thesis, rebuilt): tested VAR, XGBoost and LSTM against a random-walk benchmark on 23 years of India–Japan macro data, with leakage-free evaluation and Diebold–Mariano tests. VAR came closest (3.4% lower RMSE), but no model beat the random walk significantly, the classic Meese–Rogoff result.
 - **[NSE equity regression and a look-ahead bias check](https://github.com/Nikhil-Bhunwal/nse-equity-regression)** (term project, rebuilt): per-stock OLS for 28 NSE stocks with 95% prediction intervals. A placebo test showed the original model's edge came from same-day information; the fixed at-open model beat a random walk for 26/28 stocks.
+- **[Portfolio optimisation, tested out of sample](https://github.com/Nikhil-Bhunwal/portfolio-optimization-nse)**: Markowitz QPs (cvxopt) for 20 NSE stocks. The in-sample max-Sharpe portfolio (Sharpe 3.5, 18× leverage) lost 82% the next year, while minimum-variance and 1/N portfolios did best.
 
 
 ## 🛠️ Toolkit
