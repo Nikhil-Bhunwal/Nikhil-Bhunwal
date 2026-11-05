@@ -3,10 +3,10 @@
 Mathematics & Computing graduate from **IIT Kharagpur**, building **econometric and machine-learning models for financial markets**. I'm interested in model validation, economic research and market analysis.
 
 ## 📈 Featured work
-- **INR–JPY exchange-rate forecasting** (Master's thesis): compared VAR, XGBoost and LSTM models on 23 years of India and Japan macroeconomic data. LSTM cut out-of-sample RMSE by **33%** against the VAR benchmark (MAPE 3.08% vs 5.09%).
+- **[INR–JPY exchange-rate forecasting](https://github.com/Nikhil-Bhunwal/inr-jpy-forecasting)** (Master's thesis): compared VAR, XGBoost and LSTM models on 23 years of India and Japan macroeconomic data. LSTM cut out-of-sample RMSE by **33%** against the VAR benchmark (MAPE 3.08% vs 5.09%).
 - **Equity price regression**: multi-factor models for 30 NSE-listed stocks. The multi-factor model's predictions fell within a 95% confidence band for **29/30** stocks, against 14/30 for the single-factor baseline.
 
-*(Code for both projects coming soon to this profile.)*
+*(Equity regression code coming soon.)*
 
 ## 🛠️ Toolkit
 - **Languages:** Python, SQL, C++
